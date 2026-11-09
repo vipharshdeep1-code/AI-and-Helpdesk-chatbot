@@ -2,8 +2,19 @@
 
 A simple, beginner-friendly chatbot built with **Python** and **Streamlit** that helps users solve common IT problems.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.40-FF4B4B?logo=streamlit&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.40-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Deploy on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=vipharshdeep1-code/AI-and-Helpdesk-chatbot&branch=main&mainModule=app.py)
+
+---
+
+## 🌐 Live Demo & Deployment
+
+You can deploy and access this chatbot online 24/7 on Streamlit Cloud for free:
+
+👉 **[Deploy / Launch on Streamlit Cloud](https://share.streamlit.io/deploy?repository=vipharshdeep1-code/AI-and-Helpdesk-chatbot&branch=main&mainModule=app.py)**
+
+Once deployed, your live URL will be active permanently without needing your computer or local server running!
 
 ---
 
@@ -44,13 +55,13 @@ Open a terminal in the project folder and run:
 pip install -r requirements.txt
 ```
 
-### 2. Run the Application
+### 2. Run the Application Locally (Optional)
 
 ```bash
 streamlit run app.py
 ```
 
-The app will open automatically in your browser at **http://localhost:8501**.
+The app will open automatically in your browser at `http://localhost:8501`. (Note: This is only accessible on your local computer while the terminal is running).
 
 ---
 
